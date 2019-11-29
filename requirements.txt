@@ -1,0 +1,3 @@
+numpy
+scikit-learn
+scikit-network>=0.11.0
